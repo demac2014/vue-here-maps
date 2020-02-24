@@ -1,4 +1,6 @@
-# here-project
+# Vuejs HERE Maps Test Project
+
+Simple HERE Maps implementation using Vuejs
 
 ## Project setup
 ```
